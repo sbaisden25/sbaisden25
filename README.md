@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sbaisden25/sbaisden25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Spencer Baisden
+Twitter Badge Linkedin Badge Gmail Badge
+
+Hi 👋,
+I'm Spencer Baisden, I'm a software engineer 👨‍💻 who is passionate about backend. I'm also a self procliamed graphic designer and internet surfer 🏄‍♂️.
+
+🔭 I’m currently working on an Issue Tracker
+🌱 I’m currently learning the Python FastAPI framework
+⚡ Languages: Java, Python
+📫 How to reach me: spbaisden@gmail.com
