@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Spencer Baisden
-Twitter Badge Linkedin Badge Gmail Badge
-
 Hi 👋,
-I'm Spencer Baisden, I'm a software engineer 👨‍💻 who is passionate about backend. I'm also a self procliamed graphic designer and internet surfer 🏄‍♂️.
+I'm Spencer Baisden, I'm a software engineer 👨‍💻
 
 🔭 I’m currently working on an Issue Tracker
 🌱 I’m currently learning the Python FastAPI framework
