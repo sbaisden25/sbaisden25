@@ -17,6 +17,6 @@ Hi 👋,
 I'm Spencer Baisden, I'm a software engineer 👨‍💻
 
 🔭 I’m currently working on an Issue Tracker
-🌱 I’m currently learning the Python FastAPI framework
+🌱 I’m currently learning Angular
 ⚡ Languages: Java, Python
 📫 How to reach me: spbaisden@gmail.com
