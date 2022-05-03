@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 Hi 👋,
 I'm Spencer Baisden, I'm a software engineer 👨‍💻
@@ -20,3 +20,9 @@ I'm Spencer Baisden, I'm a software engineer 👨‍💻
 🌱 I’m currently learning Angular
 ⚡ Languages: Java, Python
 📫 How to reach me: spbaisden@gmail.com
+
+-->
+
+![alt text :P](https://github.com/sbaisden25/portfolio/main/public/images/Screenshot_7.png)
+
+![alt text :P](https://github.com/sbaisden25/portfolio/main/public/images/Screenshot_8.png)
