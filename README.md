@@ -23,6 +23,6 @@ I'm Spencer Baisden, I'm a software engineer 👨‍💻
 
 -->
 
-![alt text :P](https://github.com/sbaisden25/portfolio/main/public/images/Screenshot_7.png)
+![alt text :P](https://github.com/sbaisden25/portfolio/blob/main/public/images/Screenshot_7.png)
 
-![alt text :P](https://github.com/sbaisden25/portfolio/main/public/images/Screenshot_8.png)
+![alt text :P](https://github.com/sbaisden25/portfolio/blob/main/public/images/Screenshot_8.png)
